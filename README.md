@@ -29,7 +29,7 @@
 
 - 🔗 Telegram: [@UM4iR_H3x](https://t.me/UM4iR_H3x)  
 - 🔗 GitHub: [github.com/UM4iR-H3x](https://github.com/UM4iR-H3x)  
-- ✉️ Email: *(Add your email here if you wish)*
+- ✉️ Email: *(umair.anwari789@gmail.com)*
 
 ---
 
