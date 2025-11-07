@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Umair Anwari (@UM4iR-H3x) 👋</h1>
 
 <p align="center">
-  💻 Aspiring Software Engineer | Founder and CEO of ai text analyzer and generator | 📱 Android & Web Developer  
+  💻 Aspiring Software Engineer | Founder of ai text analyzer and generator | 📱 Android & Web Developer  
 </p>
 
 ---
