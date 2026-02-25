@@ -27,6 +27,7 @@
 
 <p align="center">
   <img src="https://github.com/UM4iR-H3x/UM4iR-H3x/blob/main/assets/hackerone.png" alt="HackerOne" height="40" />
+  <div width='5'></div>
   <img src="https://github.com/UM4iR-H3x/UM4iR-H3x/blob/main/assets/bugcrowd.png" alt="Bugcrowd" height="40" />
 </p>
 
