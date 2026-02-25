@@ -1,11 +1,11 @@
 <!-- Profile README for UM4iR-H3x -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7D7&center=true&width=600&lines=Hey,+I'm+UM4iR-H3x!;Welcome+to+my+GitHub+profile.;Bug+Bounty+%26+Web+Pentesting+%F0%9F%92%A1" alt="Typing Animated Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7D7&center=true&width=650&lines=Hey,+I'm+UM4iR-H3x!;Bug+Bounty+%E2%9C%A8+Web+Pentesting+%F0%9F%94%91;Welcome+to+my+GitHub+profile!" alt="Typing Title" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-222?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20Source-2e2e2e?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Coding%20Enthusiast-1e90ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Innovator-a020f0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Collaboration-ffce00?style=for-the-badge" />
@@ -17,69 +17,60 @@
 
 ## 👤 About Me
 
-- 💡 **Creative developer and security enthusiast**
-- 🚀 Always learning, building, breaking (for good)
-- 🤝 Collaborating on open source and cool projects
+💡 **Creative developer & security enthusiast**  
+🚀 Always learning, always building, always breaking (for good)  
+🤝 Collaborating on open source and impactful projects
 
 ---
 
 ## 🕵️‍♂️ Bug Bounty & Web Pentesting
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerone.svg" width="30" alt="HackerOne" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bugcrowd.svg" width="30" alt="Bugcrowd" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/owasp.svg" width="30" alt="OWASP" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerone.svg" height="40" alt="HackerOne" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bugcrowd.svg" height="40" alt="Bugcrowd" />
 </p>
 
-**Bug Bounty Hunter, Web Pentesting Enthusiast**
-
-- 🐞 Actively hunting vulnerabilities and making the web safer
-- 🛡️ Skilled in: Burp Suite, OWASP ZAP, Nmap, Recon-ng, Metasploit, custom scripts
-- 🔥 Responsible Disclosure Advocate, sharing tips & writeups
-- 📝 Platforms: HackerOne, Bugcrowd, Synack (add your profile links!)
+**Bug Bounty Hunter & Web Pentesting Enthusiast**  
+🐞 Actively finding vulnerabilities & making the web safer  
+🛡️ Skilled in: Burp Suite, OWASP ZAP, Nmap, Recon-ng, Metasploit, scripting  
+⚡ Advocate for responsible disclosure and knowledge sharing
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,git,linux,vscode,html,css,cpp,java,bash" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,git,linux,vscode,html,css,cpp,java,bash,flutter" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UM4iR-H3x&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=UM4iR-H3x&theme=github-dark-blue&hide_title=true" alt="GitHub Streak" height="180" />
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=UM4iR-H3x&theme=github-dark-blue" alt="GitHub Streak" height="180" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UM4iR-H3x&theme=github_dark" alt="GitHub Profile Summary Card">
 </p>
 
 ---
 
 ## ✨ Fun Facts
 
-- 🔍 Explore new tech & creative hacking ideas every week!
+- 🔍 Constantly exploring new tech & hacking ideas
 - 🎮 Gamer at heart, music lover by soul
-- 🧠 Solving real-world problems and building cool stuff
+- 🧠 Enjoy solving real-world problems & building cool stuff
 
 ---
 
-## 💬 Let's Connect!
+## 🌐 Let's Connect!
 
 <p align="center">
   <a href="https://github.com/UM4iR-H3x" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <!-- Add your other socials (LinkedIn, Twitter, Discord, HackerOne etc) -->
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/UM4iR-H3x.png" width="120" alt="UM4iR-H3x Avatar">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=800&color=F7B500&center=true&width=380&lines=Thanks+for+visiting!;Let%E2%80%99s+collaborate,+code,+and+grow+%F0%9F%92%A1" alt="Thanks Typing SVG">
+  <!-- Add more socials like LinkedIn, Twitter, Bug Bounty platforms, etc! -->
 </p>
 
 ---
