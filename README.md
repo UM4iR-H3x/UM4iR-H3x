@@ -26,7 +26,7 @@
 ## 🕵️‍♂️ Bug Bounty & Web Pentesting
 
 <p align="center">
-  <img src="https://github.com/UM4iR-H3x/assets/blob/main/hackerone.png?raw=true" alt="HackerOne" height="40" />
+  <img src="https://github.com/UM4iR-H3x/assets/hackerone.png?raw=true" alt="HackerOne" height="40" />
   <img src="https://github.com/UM4iR-H3x/assets/blob/main/bugcrowd.png?raw=true" alt="Bugcrowd" height="40" />
 </p>
 
