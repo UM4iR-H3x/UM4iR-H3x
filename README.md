@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="https://github.com/UM4iR-H3x/UM4iR-H3x/blob/main/assets/hackerone.png?raw=true" alt="HackerOne" height="40" />
-  <img src="https://github.com/UM4iR-H3x/UM4iR-H3x/blob/main/assets/bugcrowd.png?raw=true" alt="Bugcrowd" height="40" />
+  <img src="https://github.com/UM4iR-H3x/UM4iR-H3x/blob/main/assets/bugcrowd.png" alt="Bugcrowd" height="40" />
 </p>
 
 **Bug Bounty Hunter & Web Pentesting Enthusiast**  
