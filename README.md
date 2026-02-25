@@ -18,7 +18,7 @@
 ## 👤 About Me
 
 💡 **Creative developer & security enthusiast**  
-🚀 Always learning, always building, always breaking (for good)  
+🚀 Always learning, always building, always breaking   
 🤝 Collaborating on open source and impactful projects
 
 ---
