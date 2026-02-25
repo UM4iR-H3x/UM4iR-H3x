@@ -26,8 +26,8 @@
 ## 🕵️‍♂️ Bug Bounty & Web Pentesting
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerone.svg" height="40" alt="HackerOne" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bugcrowd.svg" height="40" alt="Bugcrowd" />
+  <img src="https://github.com/UM4iR-H3x/assets/blob/main/hackerone.png?raw=true" alt="HackerOne" height="40" />
+  <img src="https://github.com/UM4iR-H3x/assets/blob/main/bugcrowd.png?raw=true" alt="Bugcrowd" height="40" />
 </p>
 
 **Bug Bounty Hunter & Web Pentesting Enthusiast**  
@@ -48,7 +48,6 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
- 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=UM4iR-H3x&theme=github-dark-blue" alt="GitHub Streak" height="180" />
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UM4iR-H3x&theme=github_dark" alt="GitHub Profile Summary Card">
